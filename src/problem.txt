@@ -1,0 +1,11 @@
+Doc 1    new home sales top forecasts  2
+Doc 2    home sales rise on july 1
+Doc 3    increase in home new sales on july 3
+Doc 4    july new home sales rise  3
+
+void addDoc(Document doc)
+List<String> searchWord(String word)
+
+Added Later
+List<String> getDocumentIdsByPhrase(String phrase)
+//Where phrase is series of multiple words
